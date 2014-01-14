@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         false
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+# Permalinks
+permalink:        /:title
+
+# Setup
+title:            Bibtic Hosting
+tagline:          'Allotjament de serveis web'
+description:      Servidors per a l'allotjament de serveis web.
+# url:         http://bibtichosting.com
+
+author:
+  name:           'Bibtic'
+  url:            https://twitter.com/bibtic
+
+paginate:         0
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/bibtic/bibtichosting
+
+email: help@bibtichosting.com
