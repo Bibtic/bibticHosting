@@ -11,13 +11,12 @@ permalink:        /:title
 title:            Bibtic Hosting
 tagline:          'Allotjament de serveis web'
 description:      Servidors per a l'allotjament de serveis web.
-# url:         http://bibtichosting.com
 
 author:
   name:           'Bibtic'
-  url:            https://twitter.com/bibtic
+  url:            https://bibtic.cat
 
-paginate:         0
+# paginate:         
 
 # Custom vars
 version:          2.0.0
